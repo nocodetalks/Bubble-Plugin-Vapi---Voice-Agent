@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "payment",
+        "2": "calendar"
+    },
+    "demo_page": "https://vapitesting.bubbleapps.io/version-test/index",
+    "description": "Enhance your Bubble.io applications with the power of AI by integrating Vapi AI. This plugin allows you to seamlessly incorporate advanced AI Speech capabilities by enabling your apps to use Vapi assistants in your Bubble apps.\n",
+    "image": "//meta-q.cdn.bubble.io/f1741695196495x262161635110085280/images%20%281%29.png",
+    "license": "open_source",
+    "link": "https://vapitesting.bubbleapps.io/version-test/index",
+    "name": "Vapi - Voice Agent",
+    "plugin_instructions": "- Add the plugin to your project\n- Set the VAPI_PRIVATE_KEY in the Plugin settings, find this in the API keys section in your Vapi dashboard. "
+}
